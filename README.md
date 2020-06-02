@@ -13,6 +13,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Disponible para todas las edades
 * Me gusta el atun
 * No me gusta el chayote
+* Te amo Andrea paola lino hernández
 
 **Este readme fue diseñado en [Editor.md](https://pandao.github.io/editor.md/en.html "Editor.md").**
 

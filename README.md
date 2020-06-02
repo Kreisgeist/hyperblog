@@ -11,9 +11,9 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Creado por el increíble Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
-* Me gusta el atun
-* No me gusta el chayote
-* Te amo Andrea paola lino hernández
+* Costos accesibles
+* Comunidad increible
+* Gran calidad de profesores
 
 **Este readme fue diseñado en [Editor.md](https://pandao.github.io/editor.md/en.html "Editor.md").**
 
